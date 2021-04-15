@@ -18,6 +18,6 @@ const Sobre = () => {
       </section>
     </main>
   )
-}
+}  
 
 export default Sobre
